@@ -1,0 +1,32 @@
+#intro {
+  display: flex;
+  justify-content: center;
+  font-size: 70px;
+  padding: 190px;
+  color: darkslategrey;
+}
+#container {
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-around;
+  align-content: stretch;
+  color:darksalmon;
+  font-size: 35px;
+  text-align: center;
+  
+}
+#keyCode {
+    height: 50px;
+    font-size: 140px;
+    color: cadetblue;
+    
+
+    justify-content: center;
+    padding-bottom: 380px;
+}
+
+.labels {
+    background-color: aquamarine;
+    font-size: 40px;
+    color: blanchedalmond;
+}
